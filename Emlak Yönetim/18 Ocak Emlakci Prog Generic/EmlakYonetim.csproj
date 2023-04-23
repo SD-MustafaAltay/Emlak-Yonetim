@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0EEEAE49-DFA2-4C35-A633-0BFCA1A9F26C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_18_Ocak_Emlakci_Prog_Generic</RootNamespace>
+    <AssemblyName>18 Ocak Emlakci Prog Generic</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Extensions.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaSayfa.Designer.cs">
+      <DependentUpon>AnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArsaBi.cs" />
+    <Compile Include="Ekranlar\Arsalar\ArsaEklemeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ekranlar\Arsalar\ArsaEklemeFrm.Designer.cs">
+      <DependentUpon>ArsaEklemeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ekranlar\Arsalar\ArsaLstFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ekranlar\Arsalar\ArsaLstFrm.Designer.cs">
+      <DependentUpon>ArsaLstFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ekranlar\FrmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ekranlar\FrmBase.Designer.cs">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ekranlar\IsYeri\IsYeriEklemeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ekranlar\IsYeri\IsYeriEklemeFrm.Designer.cs">
+      <DependentUpon>IsYeriEklemeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ekranlar\IsYeri\IsYeriFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ekranlar\IsYeri\IsYeriFrm.Designer.cs">
+      <DependentUpon>IsYeriFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ekranlar\Konutlar\KonutEklemeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ekranlar\Konutlar\KonutEklemeFrm.Designer.cs">
+      <DependentUpon>KonutEklemeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ekranlar\Konutlar\KonutFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ekranlar\Konutlar\KonutFrm.Designer.cs">
+      <DependentUpon>KonutFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ekranlar\TumEmlaklar\TumEmlaklarFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ekranlar\TumEmlaklar\TumEmlaklarFrm.Designer.cs">
+      <DependentUpon>TumEmlaklarFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="islem.cs" />
+    <Compile Include="IsyeriBi.cs" />
+    <Compile Include="KonutBi.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewClas.cs" />
+    <EmbeddedResource Include="AnaSayfa.resx">
+      <DependentUpon>AnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ekranlar\Arsalar\ArsaEklemeFrm.resx">
+      <DependentUpon>ArsaEklemeFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ekranlar\Arsalar\ArsaLstFrm.resx">
+      <DependentUpon>ArsaLstFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ekranlar\FrmBase.resx">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ekranlar\IsYeri\IsYeriEklemeFrm.resx">
+      <DependentUpon>IsYeriEklemeFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ekranlar\IsYeri\IsYeriFrm.resx">
+      <DependentUpon>IsYeriFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ekranlar\Konutlar\KonutEklemeFrm.resx">
+      <DependentUpon>KonutEklemeFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ekranlar\Konutlar\KonutFrm.resx">
+      <DependentUpon>KonutFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ekranlar\TumEmlaklar\TumEmlaklarFrm.resx">
+      <DependentUpon>TumEmlaklarFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.Arsalar.ArsaLstFrm.datasource" />
+    <None Include="Properties\DataSources\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.IsYeri.IsYeriFrm.datasource" />
+    <None Include="Properties\DataSources\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.Konutlar.KonutFrm.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\ABJI0930.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

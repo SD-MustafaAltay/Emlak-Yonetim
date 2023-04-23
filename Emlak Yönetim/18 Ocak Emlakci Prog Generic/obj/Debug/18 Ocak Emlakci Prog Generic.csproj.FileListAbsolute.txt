@@ -1,0 +1,55 @@
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\bin\Debug\18 Ocak Emlakci Prog Generic.exe.config
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\bin\Debug\18 Ocak Emlakci Prog Generic.exe
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\bin\Debug\18 Ocak Emlakci Prog Generic.pdb
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.csproj.AssemblyReference.cache
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.csproj.SuggestedBindingRedirects.cache
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.AnaSayfa.resources
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.Arsalar.ArsalarFrm.resources
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.IsYeri.IsYeriFrm.resources
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.Konutlar.KonutFrm.resources
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.TumEmlaklar.TumEmlaklarFrm.resources
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Properties.Resources.resources
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.csproj.GenerateResource.cache
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.exe
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.pdb
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.Arsalar.ArsaEklemeFrm.resources
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.IsYeri.IsYeriEklemeFrm.resources
+C:\Users\mustafa\source\repos\18 Ocak Emlakci Prog Generic\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.Konutlar.KonutEklemeFrm.resources
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\bin\Debug\18 Ocak Emlakci Prog Generic.exe.config
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\bin\Debug\18 Ocak Emlakci Prog Generic.exe
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\bin\Debug\18 Ocak Emlakci Prog Generic.pdb
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.AnaSayfa.resources
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.Arsalar.ArsaEklemeFrm.resources
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.IsYeri.IsYeriEklemeFrm.resources
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.Konutlar.KonutEklemeFrm.resources
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Properties.Resources.resources
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.exe
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.pdb
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.FrmBase.resources
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.Arsalar.ArsaLstFrm.resources
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.IsYeri.IsYeriFrm.resources
+\\Mac\Home\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.TumEmlaklar.TumEmlaklarFrm.resources
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\bin\Debug\18 Ocak Emlakci Prog Generic.exe.config
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\bin\Debug\18 Ocak Emlakci Prog Generic.exe
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\bin\Debug\18 Ocak Emlakci Prog Generic.pdb
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.csproj.AssemblyReference.cache
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.csproj.SuggestedBindingRedirects.cache
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.AnaSayfa.resources
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.Arsalar.ArsaEklemeFrm.resources
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.Arsalar.ArsaLstFrm.resources
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.FrmBase.resources
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.IsYeri.IsYeriEklemeFrm.resources
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.IsYeri.IsYeriFrm.resources
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.Konutlar.KonutEklemeFrm.resources
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.TumEmlaklar.TumEmlaklarFrm.resources
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Properties.Resources.resources
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.csproj.GenerateResource.cache
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.csproj.CoreCompileInputs.cache
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.exe
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\18 Ocak Emlakci Prog Generic.pdb
+C:\Users\hazal\Desktop\18 Ocak Emlakci Prog Generic (1)\18 Ocak Emlakci Prog Generic\obj\Debug\_18_Ocak_Emlakci_Prog_Generic.Ekranlar.Konutlar.KonutFrm.resources
